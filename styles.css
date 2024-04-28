@@ -123,6 +123,10 @@
   line-height: 12px;
   letter-spacing: 0.5px;
 }
+.blog-details span {
+  color: var(--secondary-color);
+  font-size: 12px;
+}
 
 
 
